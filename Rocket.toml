@@ -1,0 +1,5 @@
+[development]
+port=7878
+
+[global.databases]
+mongodb = { url = "mongodb://localhost:27017/test"}
